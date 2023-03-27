@@ -8,7 +8,6 @@ I am a self-starter and a quick learner, always eager to expand my skill set and
 
 
 
-**Skills**:<br>
 <h3 align="left">Skills:</h3>
 <p align="left">
 • SQL (MySQL, PostgreSQL) <br>
