@@ -16,7 +16,6 @@ I am a self-starter and a quick learner, always eager to expand my skill set and
 • Excel (VLOOKUP, Conditional Formatting, Pivot Tables, Pivot Charts, Functions)<br>
 • Microsoft Power BI
 
-📫 How to reach me: ergyunhasan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
